@@ -1,0 +1,16 @@
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\bin\Debug\netstandard2.0\Laboratorio11.deps.json
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\bin\Debug\netstandard2.0\Laboratorio11.dll
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\bin\Debug\netstandard2.0\ref\Laboratorio11.dll
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\bin\Debug\netstandard2.0\Laboratorio11.pdb
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\obj\Debug\netstandard2.0\Laboratorio11.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\obj\Debug\netstandard2.0\Laboratorio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\obj\Debug\netstandard2.0\Views\Operations.xaml.g.cs
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\obj\Debug\netstandard2.0\Laboratorio11.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\obj\Debug\netstandard2.0\Laboratorio11.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\obj\Debug\netstandard2.0\Laboratorio11.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\obj\Debug\netstandard2.0\Laboratorio11.dll
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\obj\Debug\netstandard2.0\ref\Laboratorio11.dll
+C:\Users\Ivan\source\repos\Laboratorio11\Laboratorio11\Laboratorio11\obj\Debug\netstandard2.0\Laboratorio11.pdb
